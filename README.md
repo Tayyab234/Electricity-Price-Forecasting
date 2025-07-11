@@ -38,3 +38,6 @@ To **explain and predict short-term electricity price variations** using a diver
 - One-hot encoding for `COUNTRY` column
 - Standardization (mean = 0, std = 1)
 
+📌 Conclusion
+
+Random Forest performed best in identifying important features such as wind energy, residual load, and gas prices that heavily influence short-term electricity pricing in both France and Germany.
